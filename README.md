@@ -1,9 +1,10 @@
 # WMC - Testnet loadtools
 <br>
-Following are some sample processes/scripts to get started on WMC, from minting NFTs through to basic automation.<br>
+Following are some different loading scripts, beta version run manually not yet fully schedulable.<br>
 <br>
 
-* [gasburn_space](./gasburn_space.md) - stress chain with space intensive contract 
+* [tx_flooding](./tx_flooding.md) - tx flooding
+* [gasburn_mixed](./gasburn_mixed.md) - stress chain with mixed compute/space
 * [gasburn_mixed](./gasburn_mixed.md) - stress chain with mixed compute/space
 <br>
 
